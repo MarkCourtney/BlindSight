@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 701e84f6a097c4488bf28ced6e798ed5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wallMaterial: {fileID: 2100000, guid: 7805eacb8116b6e479f37e7bb0b0d38a, type: 2}
+  - floor: {fileID: 100000, guid: 97cb43b9bbfbd45dabced12bbd76e58a, type: 2}
+  - wall: {fileID: 100000, guid: b1f9496c1b3044b9cb47cf7a9d0d6a72, type: 2}
+  - light: {fileID: 100000, guid: e6ae5571e3e294e28b5520a1b54bb2c0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

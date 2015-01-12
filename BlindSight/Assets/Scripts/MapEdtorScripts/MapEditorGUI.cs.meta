@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: eb557fa41e4ae4f1f8878d75b2091718
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bin: {fileID: 100000, guid: 0d83ba07b276f40ba91e74a07c40f766, type: 2}
+  - chair: {fileID: 100000, guid: 3a822bc228cb34b5ea9f2975d633c329, type: 2}
+  - counterSmall: {fileID: 100000, guid: eea2ded95dcf8422d81065df96be1c7c, type: 2}
+  - counterLarge: {fileID: 100000, guid: 99604f89147d148d78a286022b48377b, type: 2}
+  - door: {fileID: 100000, guid: bcfbf4f1cc19141bd9600bd5ee815922, type: 2}
+  - fire: {fileID: 100000, guid: f9876345cc7d34a4eb5a161ddc7a8195, type: 2}
+  - tableSmall: {fileID: 100000, guid: e76d2a658f7d7474cac0642623dd18d7, type: 2}
+  - tableLarge: {fileID: 100000, guid: 34377d3837867425b809db60a0b842b1, type: 2}
+  - window: {fileID: 100000, guid: 60152b84743be4fad975aca0735f78de, type: 2}
+  - targetDoor: {fileID: 100000, guid: 610a9434266ee4147a1f8c919ecedac1, type: 2}
+  - kettle: {fileID: 100000, guid: 596e788539e7a41c2ade2835d4a7999e, type: 2}
+  - lightSwitch: {fileID: 100000, guid: 8a8470531144245b090213a4fcbbf3b9, type: 2}
+  - sink: {fileID: 100000, guid: 141c1a03d4f8f441587643236107f72f, type: 2}
+  - telephone: {fileID: 100000, guid: 8746c6e6fc1c4446a905bda8b31ea861, type: 2}
+  - targetWindow: {fileID: 100000, guid: 3a73856d9c0c44240830aba730f167b1, type: 2}
+  - man: {fileID: 100000, guid: 95b90cccf767e4fdbaea7cc1fbe4dcc0, type: 2}
+  - woman: {fileID: 100028, guid: 588a7d1c1d5c14eb9b917a0c2b5254ea, type: 2}
+  - child: {fileID: 100018, guid: 68fcb1d193a0e43ada793dd50bcc4c44, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

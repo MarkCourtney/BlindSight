@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 837e418ae2f7449b38b2bb61bc250bfb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lShaped: {fileID: 2800000, guid: a2223b1aaf7b6401f8a002eeceddd16e, type: 3}
+  - rectangle: {fileID: 2800000, guid: 09041287d21da405ca7dc2b1cce9fe81, type: 3}
+  - crossSection: {fileID: 2800000, guid: cb3fa6fee7a624aeb92b14453ae876a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
